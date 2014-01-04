@@ -1,0 +1,742 @@
+[
+    {
+        "current_condition": "Demolished",
+        "type_of_closure": "Station resited",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Aldgate_East_stn_northeast_building.JPG/240px-Aldgate_East_stn_northeast_building.JPG",
+        "coordinates": "51.5152 -0.0722",
+        "station": "Aldgate East",
+        "details": "Closed when the current station was opened a short distance to the east to enable the Aldgate junction to be rebuilt.",
+        "closed": "30 October 1938",
+        "line": "District"
+    },
+    {
+        "current_condition": "Building remains and platforms sometimes used for cinematic purposes",
+        "type_of_closure": "Station and route closed",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Aldwych_tube_station_1.jpg/161px-Aldwych_tube_station_1.jpg",
+        "coordinates": "51.51215 -0.11595",
+        "station": "Aldwych",
+        "details": "Terminus of Piccadilly line branch line from Holborn; closed due to low passenger numbers and cost of replacing lifts.",
+        "closed": "30 September 1994",
+        "line": "Piccadilly"
+    },
+    {
+        "current_condition": "Operated by National Rail",
+        "type_of_closure": "Service withdrawn",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Aylesbury_railway_station_1.jpg/265px-Aylesbury_railway_station_1.jpg",
+        "coordinates": "51.813903 -0.815102",
+        "station": "Aylesbury",
+        "details": "The service was cut back to Amersham when electric locomotive-hauled trains were replaced with A60 Stock trains.",
+        "closed": "10 September 1961",
+        "line": "Metropolitan"
+    },
+    {
+        "current_condition": "Building remains as private residence",
+        "type_of_closure": "Station and route closed",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Blake_Hall_station.jpg/265px-Blake_Hall_station.jpg",
+        "coordinates": "51.71134 0.20444",
+        "station": "Blake Hall",
+        "details": "Closed due to low passenger numbers.",
+        "closed": "31 October 1981",
+        "line": "Central"
+    },
+    {
+        "current_condition": "Demolished",
+        "type_of_closure": "Station and route closed",
+        "image": "http://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Brill_station.jpg/270px-Brill_station.jpg",
+        "coordinates": "51.8323 -1.0482",
+        "station": "Brill",
+        "details": "Closed when Brill branch was closed due to very low passenger numbers.",
+        "closed": "30 November 1935",
+        "line": "Metropolitan"
+    },
+    {
+        "current_condition": "Demolished",
+        "type_of_closure": "Station closed",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/6/6c/British_museum_tube_stn_map.png",
+        "coordinates": "51.51750 -0.12278",
+        "station": "British Museum",
+        "details": "Closed when Central line platforms were opened at Holborn.",
+        "closed": "24 September 1933",
+        "line": "Central"
+    },
+    {
+        "current_condition": "Mostly demolished, side elevation remains",
+        "type_of_closure": "Station closed",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Brompton_Road_Sept_2000.jpg/240px-Brompton_Road_Sept_2000.jpg",
+        "coordinates": "51.4971 -0.1689",
+        "station": "Brompton Road",
+        "details": "Closed due to low passenger numbers and creation of a new entrance to Knightsbridge station.",
+        "closed": "29 July 1934",
+        "line": "Piccadilly"
+    },
+    {
+        "current_condition": "Operated by National Rail",
+        "type_of_closure": "Service withdrawn",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Bushey_station_east_building.JPG/240px-Bushey_station_east_building.JPG",
+        "coordinates": "51.644 -0.385",
+        "station": "Bushey",
+        "details": "Former peak hours only service withdrawn to save money following cancellation of Greater London Council's Fares Fair policy.",
+        "closed": "24 September 1982",
+        "line": "Bakerloo"
+    },
+    {
+        "current_condition": "Operated by National Rail",
+        "type_of_closure": "Service withdrawn",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Carpendarspark999.JPG/240px-Carpendarspark999.JPG",
+        "coordinates": "51.629 -0.386",
+        "station": "Carpenders Park",
+        "details": "Former peak hours only service withdrawn to save money following cancellation of Greater London Council's Fares Fair policy.",
+        "closed": "24 September 1982",
+        "line": "Bakerloo"
+    },
+    {
+        "current_condition": "Operated by National Rail",
+        "type_of_closure": "Service withdrawn",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/9/93/West_Ealing_stn_building.JPG/240px-West_Ealing_stn_building.JPG",
+        "coordinates": "51.5137 -0.3203",
+        "station": "Castle Hill (Ealing Dean)",
+        "details": "The Windsor service was cut back to Ealing Broadway due to low passenger numbers. It is now West Ealing station.",
+        "closed": "30 September 1885",
+        "line": "District"
+    },
+    {
+        "current_condition": "Remainder of station in use",
+        "type_of_closure": "Partial",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/d/db/CharingCrossTubeSign.jpg/240px-CharingCrossTubeSign.jpg",
+        "coordinates": "51.508 -0.12475",
+        "station": "Charing Cross",
+        "details": "Two platforms are still functional but were removed from public use when the Jubilee line extension to Stratford was opened in 1999.",
+        "closed": "19 November 1999",
+        "line": "Jubilee"
+    },
+    {
+        "current_condition": "Mostly demolished, ventilation tower remains",
+        "type_of_closure": "Station closed",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/City-road-former-tube-stn.jpg/250px-City-road-former-tube-stn.jpg",
+        "coordinates": "51.52972 -0.09750",
+        "station": "City Road",
+        "details": "Closed due to low passenger numbers.",
+        "closed": "8 August 1922",
+        "line": "Northern"
+    },
+    {
+        "current_condition": "Building remains",
+        "type_of_closure": "Station closed",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Down_Street_tube_station_2011.jpg/300px-Down_Street_tube_station_2011.jpg",
+        "coordinates": "51.50444 -0.14750",
+        "station": "Down Street",
+        "details": "Closed due to low passenger numbers when entrances to Green Park and Hyde Park Corner were moved closer to its location.",
+        "closed": "21 May 1932",
+        "line": "Piccadilly"
+    },
+    {
+        "current_condition": "Operated by National Rail",
+        "type_of_closure": "Service withdrawn, transferred to National Rail",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Drayton_Park_stn_building.JPG/240px-Drayton_Park_stn_building.JPG",
+        "coordinates": "51.5528 -0.1055",
+        "station": "Drayton Park",
+        "details": "Former Northern line Highbury Branch between Moorgate and Finsbury Park converted to main line operation.",
+        "closed": "16 August 1976",
+        "line": "Northern"
+    },
+    {
+        "current_condition": "Demolished",
+        "type_of_closure": "Station resited",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Earl%27s_Court_stn_eastern_entrance.JPG/240px-Earl%27s_Court_stn_eastern_entrance.JPG",
+        "coordinates": "51.4913 -0.1947",
+        "station": "Earl's Court",
+        "details": "Original station closed when the current station opened to the west.",
+        "closed": "31 January 1878",
+        "line": "District"
+    },
+    {
+        "current_condition": "Operated by National Rail",
+        "type_of_closure": "Service withdrawn, transferred to National Rail",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Essex_Road_stn_building.JPG/240px-Essex_Road_stn_building.JPG",
+        "coordinates": "51.5406 -0.0963",
+        "station": "Essex Road",
+        "details": "Former Northern line Highbury Branch between Moorgate and Finsbury Park converted to main line operation.",
+        "closed": "16 August 1976",
+        "line": "Northern"
+    },
+    {
+        "current_condition": "Demolished",
+        "type_of_closure": "Station and route closed",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Aylesbury%2C_High_Wycombe%2C_Princes_Risboro%2C_Quainton_Road_%26_Verney_Ashendon_RJD_146.jpg/220px-Aylesbury%2C_High_Wycombe%2C_Princes_Risboro%2C_Quainton_Road_%26_Verney_Ashendon_RJD_146.jpg",
+        "coordinates": "51.9116 -0.9176",
+        "station": "Granborough Road",
+        "details": "Closed when Verney Junction service was cut back to Aylesbury due to low passenger numbers.",
+        "closed": "4 July 1936",
+        "line": "Metropolitan"
+    },
+    {
+        "current_condition": "Operated by National Rail",
+        "type_of_closure": "Service withdrawn",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Great_Missenden_railway_station_1.jpg/265px-Great_Missenden_railway_station_1.jpg",
+        "coordinates": "51.704 -0.709",
+        "station": "Great Missenden",
+        "details": "The service was cut back to Amersham when electric locomotive-hauled trains were replaced with A60 Stock trains.",
+        "closed": "10 September 1961",
+        "line": "Metropolitan"
+    },
+    {
+        "current_condition": "Demolished !Subsequently closed and demolished",
+        "type_of_closure": "Service withdrawn",
+        "image": "http://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Hammersmith_Railway_Map%2C_1889.jpg/250px-Hammersmith_Railway_Map%2C_1889.jpg",
+        "coordinates": "51.49444 -0.22583",
+        "station": "Grove Road (Hammersmith)",
+        "details": "Service withdrawn due to low passenger numbers; station was closed in 1916 by London and South Western Railway.",
+        "closed": "31 December 1906",
+        "line": "Metropolitan"
+    },
+    {
+        "current_condition": "Operated by National Rail",
+        "type_of_closure": "Service withdrawn",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Hanwell_railway_station_London.jpg/240px-Hanwell_railway_station_London.jpg",
+        "coordinates": "51.5116 -0.3389",
+        "station": "Hanwell",
+        "details": "The Windsor service was cut back to Ealing Broadway due to low passenger numbers.",
+        "closed": "30 September 1885",
+        "line": "District"
+    },
+    {
+        "current_condition": "Operated by National Rail",
+        "type_of_closure": "Service withdrawn",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Hatch_End_stn_building.JPG/240px-Hatch_End_stn_building.JPG",
+        "coordinates": "51.6095 -0.3681",
+        "station": "Hatch End",
+        "details": "Former peak hours only service withdrawn to save money following cancellation of Greater London Council's Fares Fair policy.",
+        "closed": "24 September 1982",
+        "line": "Bakerloo"
+    },
+    {
+        "current_condition": "Operated by National Rail",
+        "type_of_closure": "Service withdrawn",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Hayes_%26_Harlington_stn_building2.JPG/240px-Hayes_%26_Harlington_stn_building2.JPG",
+        "coordinates": "51.502 -0.4201",
+        "station": "Hayes",
+        "details": "The Windsor service was cut back to Ealing Broadway due to low passenger numbers. It is now Hayes &amp; Harlington station.",
+        "closed": "30 September 1885",
+        "line": "District"
+    },
+    {
+        "current_condition": "Operated by National Rail",
+        "type_of_closure": "Service withdrawn",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Headstone_Lane_stn_building.JPG/240px-Headstone_Lane_stn_building.JPG",
+        "coordinates": "51.6024 -0.3564",
+        "station": "Headstone Lane",
+        "details": "Former peak hours only service withdrawn to save money following cancellation of Greater London Council's Fares Fair policy.",
+        "closed": "24 September 1982",
+        "line": "Bakerloo"
+    },
+    {
+        "current_condition": "Demolished",
+        "type_of_closure": "Station resited",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Hillingdon_tube_station_inside_entrance.jpg/240px-Hillingdon_tube_station_inside_entrance.jpg",
+        "coordinates": "51.5538 -0.45",
+        "station": "Hillingdon",
+        "details": "The original station was to the east of the current station and was closed to allow widening of the A40 road.",
+        "closed": "5 December 1992",
+        "line": "Metropolitan, Piccadilly"
+    },
+    {
+        "current_condition": "Demolished",
+        "type_of_closure": "Station and route closed, station resited",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Hounslow_Underground_stations.png/600px-Hounslow_Underground_stations.png",
+        "coordinates": "51.47167 -0.35444",
+        "station": "Hounslow Town",
+        "details": "On a now-closed branch of the Metropolitan District Railway, from what is now the Piccadilly line near Hounslow East, it was closed when Hounslow East station was opened.",
+        "closed": "1 May 1909",
+        "line": "District"
+    },
+    {
+        "current_condition": "Building remains",
+        "type_of_closure": "Station resited",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/8/83/King%27s_Cross_St_Pancras_underground_station_entrance_-_IMG_0746.JPG/240px-King%27s_Cross_St_Pancras_underground_station_entrance_-_IMG_0746.JPG",
+        "coordinates": "51.5302 -0.1241",
+        "station": "King's Cross St. Pancras",
+        "details": "The original platforms were to the east of the current ones; the station was moved to make interchange with main line station easier.",
+        "closed": "9 March 1941",
+        "line": "Metropolitan"
+    },
+    {
+        "current_condition": "Demolished but underground platforms remain",
+        "type_of_closure": "Station and route closed",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Site_of_King_William_Street_Underground_Station.jpg/250px-Site_of_King_William_Street_Underground_Station.jpg",
+        "coordinates": "51.51028 -0.08694",
+        "station": "King William Street",
+        "details": "The original terminus of the City &amp; South London Railway, which was closed when the line was extended on a new alignment to Bank; converted for use as an air-raid shelter during the war.",
+        "closed": "24 February 1900",
+        "line": "Northern"
+    },
+    {
+        "current_condition": "Operated by National Rail",
+        "type_of_closure": "Service withdrawn",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Langley_Railway_Station.jpg/265px-Langley_Railway_Station.jpg",
+        "coordinates": "51.508 -0.542",
+        "station": "Langley",
+        "details": "The Windsor service was cut back to Ealing Broadway due to low passenger numbers.",
+        "closed": "30 September 1885",
+        "line": "District"
+    },
+    {
+        "current_condition": "Operated by National Rail",
+        "type_of_closure": "Service withdrawn",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Leigh-on-Sea_railway_station_-_Geograph-2022990-by-John-Allan.jpg/265px-Leigh-on-Sea_railway_station_-_Geograph-2022990-by-John-Allan.jpg",
+        "coordinates": "51.541 0.640",
+        "station": "Leigh-on-Sea",
+        "details": "Limited excursion service withdrawn as a wartime measure and not restarted.",
+        "closed": "30 September 1939",
+        "line": "District"
+    },
+    {
+        "current_condition": "Demolished",
+        "type_of_closure": "Station closed",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/9/95/LUL-S-Stock-arrives-Croxley.jpg/100px-LUL-S-Stock-arrives-Croxley.jpg",
+        "coordinates": "51.53000 -0.16917",
+        "station": "Lord's",
+        "details": "Closed to increase capacity on Metropolitan line, following opening of nearby St John's Wood station on the Bakerloo line (now the Jubilee line).",
+        "closed": "19 November 1939",
+        "line": "Metropolitan"
+    },
+    {
+        "current_condition": "Building remains",
+        "type_of_closure": "Station resited",
+        "image": "http://upload.wikimedia.org/wikipedia/en/thumb/d/d3/MarkLaneSubway2.jpg/240px-MarkLaneSubway2.jpg",
+        "coordinates": "51.51056 -0.08000",
+        "station": "Mark Lane",
+        "details": "Closed when current Tower Hill station to the east was built to a provide better interchange with mainline services at Fenchurch Street.",
+        "closed": "4 February 1967",
+        "line": "District, Circle"
+    },
+    {
+        "current_condition": "Building remains",
+        "type_of_closure": "Station closed",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Marlborough_Road_tube_station_1.jpg/300px-Marlborough_Road_tube_station_1.jpg",
+        "coordinates": "51.53611 -0.17667",
+        "station": "Marlborough Road",
+        "details": "Closed to increase capacity on Metropolitan line, following opening of nearby St John's Wood station on the Bakerloo line (now the Jubilee line).",
+        "closed": "19 November 1939",
+        "line": "Metropolitan"
+    },
+    {
+        "current_condition": "Operated by National Rail",
+        "type_of_closure": "Service withdrawn",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/4/43/New_Cross_Station%2C_SE14_-_geograph.org.uk_-_874214.jpg/240px-New_Cross_Station%2C_SE14_-_geograph.org.uk_-_874214.jpg",
+        "coordinates": "51.4766 -0.0327",
+        "station": "New Cross",
+        "details": "Now operated by London Overground.",
+        "closed": "22 December 2007",
+        "line": "East London"
+    },
+    {
+        "current_condition": "Operated by National Rail",
+        "type_of_closure": "Service withdrawn",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/8/87/New_Cross_Gate_station.jpg/240px-New_Cross_Gate_station.jpg",
+        "coordinates": "51.4755 -0.0402",
+        "station": "New Cross Gate",
+        "details": "Now operated by London Overground.",
+        "closed": "22 December 2007",
+        "line": "East London"
+    },
+    {
+        "current_condition": "Demolished",
+        "type_of_closure": "Station resited",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Northfields_station_building.JPG/240px-Northfields_station_building.JPG",
+        "coordinates": "51.4994 -0.3142",
+        "station": "Northfields & Little Ealing",
+        "details": "Moved to allow access into new depot at Northfields built for Piccadilly line trains; when open, this station was served by the District line.",
+        "closed": "18 May 1932",
+        "line": "Piccadilly"
+    },
+    {
+        "current_condition": "Building remains",
+        "type_of_closure": "Station and route closed",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/North_Weald_stn_building_viewed_from_platform_2012.JPG/265px-North_Weald_stn_building_viewed_from_platform_2012.JPG",
+        "coordinates": "51.7117 0.1617",
+        "station": "North Weald",
+        "details": "Closed due to low passenger numbers; reopened in 2004 as part of the Epping Ongar Railway.",
+        "closed": "30 September 1994",
+        "line": "Central"
+    },
+    {
+        "current_condition": "Building remains",
+        "type_of_closure": "Station and route closed",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Ongar_station_building_2012.JPG/265px-Ongar_station_building_2012.JPG",
+        "coordinates": "51.7089 0.2428",
+        "station": "Ongar",
+        "details": "Closed due to low passenger numbers; reopened in 2004 as part of the Epping Ongar Railway.",
+        "closed": "30 September 1994",
+        "line": "Central"
+    },
+    {
+        "current_condition": "Building remains as retail unit; platforms partially remain",
+        "type_of_closure": "Station resited",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Osterley_station_building2.JPG/240px-Osterley_station_building2.JPG",
+        "coordinates": "51.4814 -0.3522",
+        "station": "Osterley & Spring Grove",
+        "details": "Closed when new .",
+        "closed": "24 March 1934",
+        "line": "Piccadilly"
+    },
+    {
+        "current_condition": "Demolished",
+        "type_of_closure": "Station resited",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/d/db/1973_Stock_at_Ruislip_Manor_1.jpg/100px-1973_Stock_at_Ruislip_Manor_1.jpg",
+        "coordinates": "51.53139 -0.28944",
+        "station": "Park Royal & Twyford Abbey",
+        "details": "Closed when station was relocated to Park Royal to provide more convenient access from Western Avenue; when open, this station was served by the District line.",
+        "closed": "5 July 1931",
+        "line": "Piccadilly"
+    },
+    {
+        "current_condition": "Demolished",
+        "type_of_closure": "Station resited",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Preston_Road_Tube_Station.jpg/240px-Preston_Road_Tube_Station.jpg",
+        "coordinates": "51.5722 -0.2953",
+        "station": "Preston Road",
+        "details": "A small halt station was reconstructed to the west when the number of tracks through the station was increased from two to four.",
+        "closed": "2 January 1932",
+        "line": "Metropolitan"
+    },
+    {
+        "current_condition": "Building remains",
+        "type_of_closure": "Station closed",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Quainton_Road_Station_3.jpg/265px-Quainton_Road_Station_3.jpg",
+        "coordinates": "51.86381 -0.92966",
+        "station": "Quainton Road",
+        "details": "Closed when Verney Junction service was cut back to Aylesbury due to low passenger numbers; temporarily reopened for war time operations between 1943 and 1948; the station is the home of the Buckinghamshire Railway Centre and is used for occasional special services from Aylesbury.",
+        "closed": "5 July 1936",
+        "line": "Metropolitan"
+    },
+    {
+        "current_condition": "Operated by National Rail",
+        "type_of_closure": "Service withdrawn, transferred to National Rail",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Rotherhithe_Station_Jan2012.jpg/240px-Rotherhithe_Station_Jan2012.jpg",
+        "coordinates": "51.5008 -0.0522",
+        "station": "Rotherhithe",
+        "details": "Now operated by London Overground.",
+        "closed": "22 December 2007",
+        "line": "East London"
+    },
+    {
+        "current_condition": "Demolished !Bombed in World War II; demolished",
+        "type_of_closure": "Station closed",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/1/17/St_marys_station_1916.jpg/240px-St_marys_station_1916.jpg",
+        "coordinates": "51.51778 -0.064583",
+        "station": "St Mary's (Whitechapel Road)",
+        "details": "Closed when Aldgate East was rebuilt closer to its location; converted for use as an air-raid shelter during the war.",
+        "closed": "30 April 1938",
+        "line": "District"
+    },
+    {
+        "current_condition": "Operated by National Rail",
+        "type_of_closure": "Service withdrawn, transferred to National Rail",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Shadwell_station_%28East_London_Line%29_south_entrance_April2010.jpg/240px-Shadwell_station_%28East_London_Line%29_south_entrance_April2010.jpg",
+        "coordinates": "51.5112 -0.0569",
+        "station": "Shadwell",
+        "details": "Now operated by London Overground.",
+        "closed": "22 December 2007",
+        "line": "East London"
+    },
+    {
+        "current_condition": "Demolished",
+        "type_of_closure": "Station resited",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Shepherd%27s_Bush_Market_stn_west_entrance.JPG/240px-Shepherd%27s_Bush_Market_stn_west_entrance.JPG",
+        "coordinates": "51.5058 -0.2264",
+        "station": "Shepherd's Bush",
+        "details": "Station replaced by .",
+        "closed": "31 March 1914",
+        "line": "Hammersmith & City"
+    },
+    {
+        "current_condition": "Operated by National Rail",
+        "type_of_closure": "Service withdrawn",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/4/45/The_Buffers_at_Shoeburyness_-_geograph.org.uk_-_41380.jpg/265px-The_Buffers_at_Shoeburyness_-_geograph.org.uk_-_41380.jpg",
+        "coordinates": "51.531 0.795",
+        "station": "Shoeburyness",
+        "details": "Limited excursion service withdrawn as a wartime measure and not restarted.",
+        "closed": "30 September 1939",
+        "line": "District"
+    },
+    {
+        "current_condition": "Building remains",
+        "type_of_closure": "Station and route closed",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Shoreditch_tube_station_lar.jpg/300px-Shoreditch_tube_station_lar.jpg",
+        "coordinates": "51.52278 -0.07083",
+        "station": "Shoreditch",
+        "details": "Closed to allow extension of East London Line on new alignment across site Replaced by London Overground station Shoreditch High Street.",
+        "closed": "9 June 2006",
+        "line": "East London"
+    },
+    {
+        "current_condition": "Operated by National Rail",
+        "type_of_closure": "Service withdrawn",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Slough_station_building.JPG/265px-Slough_station_building.JPG",
+        "coordinates": "51.512 -0.592",
+        "station": "Slough",
+        "details": "The Windsor service was cut back to Ealing Broadway due to low passenger numbers.",
+        "closed": "30 September 1885",
+        "line": "District"
+    },
+    {
+        "current_condition": "Demolished",
+        "type_of_closure": "Station and route closed",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/South_Acton_stn_west_entrance.JPG/240px-South_Acton_stn_west_entrance.JPG",
+        "coordinates": "51.4994 -0.2707",
+        "station": "South Acton",
+        "details": "On a short branch of the District line from Acton Town, it was closed due to low passenger numbers.",
+        "closed": "28 February 1959",
+        "line": "District"
+    },
+    {
+        "current_condition": "Operated by National Rail",
+        "type_of_closure": "Service withdrawn",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Southend_Central_-_geograph.org.uk_-_41377.jpg/265px-Southend_Central_-_geograph.org.uk_-_41377.jpg",
+        "coordinates": "51.53722 0.71167",
+        "station": "Southend Central",
+        "details": "Limited excursion service withdrawn as a wartime measure and not restarted.",
+        "closed": "30 September 1939",
+        "line": "District"
+    },
+    {
+        "current_condition": "Operated by National Rail",
+        "type_of_closure": "Service withdrawn",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Southall_station_building.JPG/240px-Southall_station_building.JPG",
+        "coordinates": "51.506 -0.3783",
+        "station": "Southall",
+        "details": "The Windsor service was cut back to Ealing Broadway due to low passenger numbers.",
+        "closed": "30 September 1885",
+        "line": "District"
+    },
+    {
+        "current_condition": "Building remains",
+        "type_of_closure": "Station resited",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/2/22/South_Harrow_stn_southern_entrance.JPG/240px-South_Harrow_stn_southern_entrance.JPG",
+        "coordinates": "51.5647 -0.3522",
+        "station": "South Harrow",
+        "details": "Closed when station was relocated a short distance to the north.",
+        "closed": "4 July 1935",
+        "line": "Piccadilly"
+    },
+    {
+        "current_condition": "Building remains",
+        "type_of_closure": "Station closed",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/4/43/South_Kentish_Town_former_tube_station_2005.jpg/250px-South_Kentish_Town_former_tube_station_2005.jpg",
+        "coordinates": "51.54528 -0.14167",
+        "station": "South Kentish Town",
+        "details": "Closed due to a strike at the Underground's Lots Road Power Station and never reopened due to low passenger numbers.",
+        "closed": "5 June 1924",
+        "line": "Northern"
+    },
+    {
+        "current_condition": "Operated by National Rail",
+        "type_of_closure": "Service withdrawn",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Stoke_Mandeville_railway_station_1.jpg/265px-Stoke_Mandeville_railway_station_1.jpg",
+        "coordinates": "51.788 -0.784",
+        "station": "Stoke Mandeville",
+        "details": "The service was cut back to Amersham when electric locomotive-hauled trains were replaced with A60 Stock trains.",
+        "closed": "10 September 1961",
+        "line": "Metropolitan"
+    },
+    {
+        "current_condition": "Operated by National Rail",
+        "type_of_closure": "Service withdrawn, transferred to National Rail",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Surrey_Quays_stn_main_entrance_April2010.jpg/240px-Surrey_Quays_stn_main_entrance_April2010.jpg",
+        "coordinates": "51.49358 -0.04717",
+        "station": "Surrey Quays",
+        "details": "Now operated by London Overground.",
+        "closed": "22 December 2007",
+        "line": "East London"
+    },
+    {
+        "current_condition": "Demolished",
+        "type_of_closure": "Station closed",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/9/95/LUL-S-Stock-arrives-Croxley.jpg/100px-LUL-S-Stock-arrives-Croxley.jpg",
+        "coordinates": "51.54361 -0.17667",
+        "station": "Swiss Cottage",
+        "details": "Closed as a wartime measure and not reopened; the adjacent Bakerloo line (now Jubilee line) station briefly operated as an interchange.",
+        "closed": "17 August 1940",
+        "line": "Metropolitan"
+    },
+    {
+        "current_condition": "Demolished",
+        "type_of_closure": "Station resited",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/9/95/LUL-S-Stock-arrives-Croxley.jpg/100px-LUL-S-Stock-arrives-Croxley.jpg",
+        "coordinates": "51.51000 -0.07667",
+        "station": "Tower of London",
+        "details": "A short-lived station on the site of the present Tower Hill station, which was closed when Mark Lane (also now closed) was opened.",
+        "closed": "12 October 1884",
+        "line": "District, Circle"
+    },
+    {
+        "current_condition": "Demolished",
+        "type_of_closure": "Station resited",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Uxbridge_tube_station_-_Ewan-M.jpg/240px-Uxbridge_tube_station_-_Ewan-M.jpg",
+        "coordinates": "51.5459 -0.4783",
+        "station": "Uxbridge",
+        "details": "Closed when the current station was opened on a new alignment closer to Uxbridge town centre.",
+        "closed": "3 December 1938",
+        "line": "Metropolitan, Piccadilly"
+    },
+    {
+        "current_condition": "Demolished",
+        "type_of_closure": "Station closed",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Extract_of_1900_map_showing_Shepherd%27s_Bush_Green.png/193px-Extract_of_1900_map_showing_Shepherd%27s_Bush_Green.png",
+        "coordinates": "51.5054 -0.2169",
+        "station": "Uxbridge Road",
+        "details": "Closed after bombing of the line during World War II, due to low passenger numbers; National Rail services on the line continue, and Shepherd's Bush station is a short distance to the north.",
+        "closed": "19 October 1940",
+        "line": "Metropolitan"
+    },
+    {
+        "current_condition": "Demolished",
+        "type_of_closure": "Station and route closed",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Waddesdon_Station.jpg/240px-Waddesdon_Station.jpg",
+        "coordinates": "51.8554 -0.9021",
+        "station": "Waddesdon",
+        "details": "Closed when Verney Junction service was cut back to Aylesbury due to low passenger numbers.",
+        "closed": "5 July 1936",
+        "line": "Metropolitan"
+    },
+    {
+        "current_condition": "Demolished",
+        "type_of_closure": "Station and route closed",
+        "image": "http://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Waddesdon_Road_railway_station.jpg/270px-Waddesdon_Road_railway_station.jpg",
+        "coordinates": "51.8519 -0.9468",
+        "station": "Waddesdon Road",
+        "details": "Closed when Brill branch was closed due to very low passenger numbers.",
+        "closed": "30 November 1935",
+        "line": "Metropolitan"
+    },
+    {
+        "current_condition": "Operated by National Rail",
+        "type_of_closure": "Service withdrawn, transferred to National Rail",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Wapping_station_building_April2010.jpg/240px-Wapping_station_building_April2010.jpg",
+        "coordinates": "51.5044 -0.0558",
+        "station": "Wapping",
+        "details": "Now operated by London Overground.",
+        "closed": "22 December 2007",
+        "line": "East London"
+    },
+    {
+        "current_condition": "Operated by National Rail",
+        "type_of_closure": "Service withdrawn",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Watford_High_Street_stn_building.JPG/240px-Watford_High_Street_stn_building.JPG",
+        "coordinates": "51.652597 -0.391812",
+        "station": "Watford High Street",
+        "details": "Former peak hours only service withdrawn to save money following cancellation of Greater London Council's Fares Fair policy.",
+        "closed": "24 September 1982",
+        "line": "Bakerloo"
+    },
+    {
+        "current_condition": "Operated by National Rail",
+        "type_of_closure": "Service withdrawn",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Watford_Junction_stn_entrance.JPG/240px-Watford_Junction_stn_entrance.JPG",
+        "coordinates": "51.6635 -0.3958",
+        "station": "Watford Junction",
+        "details": "Former peak hours only service withdrawn to save money following cancellation of Greater London Council's Fares Fair policy.",
+        "closed": "24 September 1982",
+        "line": "Bakerloo"
+    },
+    {
+        "current_condition": "Operated by National Rail",
+        "type_of_closure": "Service withdrawn",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Wendover_Railway_Station.jpg/265px-Wendover_Railway_Station.jpg",
+        "coordinates": "51.762 -0.747",
+        "station": "Wendover",
+        "details": "The service was cut back to Amersham when electric locomotive-hauled trains were replaced with A60 Stock trains.",
+        "closed": "10 September 1961",
+        "line": "Metropolitan"
+    },
+    {
+        "current_condition": "Demolished",
+        "type_of_closure": "Station resited",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Westbourne_Park_stn_building.JPG/240px-Westbourne_Park_stn_building.JPG",
+        "coordinates": "51.5211 -0.2011",
+        "station": "Westbourne Park",
+        "details": "Closed when current station was opened in 1871.",
+        "closed": "31 October 1871",
+        "line": "Metropolitan"
+    },
+    {
+        "current_condition": "Building remains",
+        "type_of_closure": "Station and route closed",
+        "image": "http://upload.wikimedia.org/wikipedia/en/thumb/9/91/Westcott_railway_station%2C_1935.jpg/280px-Westcott_railway_station%2C_1935.jpg",
+        "coordinates": "51.84500 -0.95556",
+        "station": "Westcott",
+        "details": "Closed when Brill branch was closed due to very low passenger numbers.",
+        "closed": "30 November 1935",
+        "line": "Metropolitan"
+    },
+    {
+        "current_condition": "Operated by National Rail",
+        "type_of_closure": "Service withdrawn",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/West_Drayton_stn_main_entrance.JPG/240px-West_Drayton_stn_main_entrance.JPG",
+        "coordinates": "51.5099417 -0.4722639",
+        "station": "West Drayton",
+        "details": "The Windsor service was cut back to Ealing Broadway due to low passenger numbers.",
+        "closed": "30 September 1885",
+        "line": "District"
+    },
+    {
+        "current_condition": "Demolished",
+        "type_of_closure": "Station and route closed",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Winslow_Road_railway_station.jpg/240px-Winslow_Road_railway_station.jpg",
+        "coordinates": "51.9277 -0.9104",
+        "station": "Winslow Road",
+        "details": "Closed when Verney Junction service was cut back to Aylesbury due to low passenger numbers.",
+        "closed": "4 July 1936",
+        "line": "Metropolitan"
+    },
+    {
+        "current_condition": "Demolished",
+        "type_of_closure": "Station closed",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Hammersmith_and_City_Line_-_geograph.org.uk_-_24573.jpg/199px-Hammersmith_and_City_Line_-_geograph.org.uk_-_24573.jpg",
+        "coordinates": "51.5089917 -0.2250306",
+        "station": "White City",
+        "details": "This station closed following a fire. Wood Lane station is close to its location.",
+        "closed": "24 October 1959",
+        "line": "Hammersmith & City"
+    },
+    {
+        "current_condition": "Demolished",
+        "type_of_closure": "Station resited",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Extract_of_1900_map_showing_Shepherd%27s_Bush_Green.png/250px-Extract_of_1900_map_showing_Shepherd%27s_Bush_Green.png",
+        "coordinates": "51.5091139 -0.224361",
+        "station": "Wood Lane",
+        "details": "This awkwardly arranged station was closed when its replacement, White City, opened to the north.",
+        "closed": "22 November 1947",
+        "line": "Central"
+    },
+    {
+        "current_condition": "Demolished",
+        "type_of_closure": "Station and route closed",
+        "image": "http://upload.wikimedia.org/wikipedia/en/thumb/1/17/Wood_Siding_station.jpg/290px-Wood_Siding_station.jpg",
+        "coordinates": "51.833 -1.0244",
+        "station": "Wood Siding",
+        "details": "Closed when Brill branch was closed due to very low passenger numbers.",
+        "closed": "30 November 1935",
+        "line": "Metropolitan"
+    },
+    {
+        "current_condition": "Demolished",
+        "type_of_closure": "Station and route closed",
+        "image": "http://upload.wikimedia.org/wikipedia/en/thumb/3/3d/Wotton_station_%28Brill_Tramway%29_1906.jpg/300px-Wotton_station_%28Brill_Tramway%29_1906.jpg",
+        "coordinates": "51.8333 -0.9926",
+        "station": "Wotton",
+        "details": "Closed when Brill branch was closed due to very low passenger numbers.",
+        "closed": "30 November 1935",
+        "line": "Metropolitan"
+    },
+    {
+        "current_condition": "Building remains and platforms visible between King's Cross and Caledonian Road",
+        "type_of_closure": "Station closed",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/1/11/YorkRoad1.jpg/250px-YorkRoad1.jpg",
+        "coordinates": "51.53833 -0.12250",
+        "station": "York Road",
+        "details": "Closed due to low passenger numbers.",
+        "closed": "17 September 1932",
+        "line": "Piccadilly"
+    }
+]
